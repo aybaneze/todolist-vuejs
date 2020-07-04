@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/ todolist-vuejs /'
+    publicPath: '/todolist-vuejs/'
 }
